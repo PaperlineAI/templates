@@ -1,4 +1,4 @@
-# **PAPERLINE_APP_NAME**
+# __PAPERLINE_APP_NAME__
 
 A SwiftUI iOS application with SwiftData integration.
 
@@ -7,12 +7,12 @@ A SwiftUI iOS application with SwiftData integration.
 - SwiftUI + SwiftData
 - Basic CRUD operations
 - Unit & UI tests
-- iOS **PAPERLINE_DEPLOYMENT_TARGET**+
+- iOS __PAPERLINE_DEPLOYMENT_TARGET__+
 
 ## Requirements
 
 - Xcode 15.0 or later
-- iOS **PAPERLINE_DEPLOYMENT_TARGET** or later
+- iOS __PAPERLINE_DEPLOYMENT_TARGET__ or later
 - macOS Sonoma or later
 
 ## Project Structure
@@ -44,5 +44,5 @@ __PAPERLINE_APP_NAME__/
 ---
 
 **Created with:** [Paperline](https://github.com/PaperlineAI)  
-**Author:** **PAPERLINE_AUTHOR**  
-**Date:** **PAPERLINE_DATE**
+**Author:** __PAPERLINE_AUTHOR__  
+**Date:** __PAPERLINE_DATE__

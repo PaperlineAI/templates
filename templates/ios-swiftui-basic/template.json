@@ -1,0 +1,52 @@
+{
+  "id": "ios-swiftui-basic",
+  "version": "1.0.0",
+  "platform": "ios",
+  "name": "SwiftUI Basic App",
+  "description": "Basic iOS app with SwiftUI and SwiftData. Includes a sample data model, CRUD operations, and unit/UI tests.",
+  "placeholders": {
+    "__PAPERLINE_APP_NAME__": {
+      "type": "string",
+      "required": true
+    },
+    "__PAPERLINE_BUNDLE_ID__": {
+      "type": "string",
+      "required": true
+    },
+    "__PAPERLINE_AUTHOR__": {
+      "type": "string",
+      "required": false,
+      "default": ""
+    },
+    "__PAPERLINE_DATE__": {
+      "type": "string",
+      "required": false,
+      "default": ""
+    },
+    "__PAPERLINE_DEVELOPMENT_TEAM__": {
+      "type": "string",
+      "required": false,
+      "default": ""
+    },
+    "__PAPERLINE_DEPLOYMENT_TARGET__": {
+      "type": "string",
+      "required": false,
+      "default": "18.0"
+    }
+  },
+  "textFileExtensions": [
+    ".swift",
+    ".h",
+    ".m",
+    ".mm",
+    ".cpp",
+    ".c",
+    ".pbxproj",
+    ".plist",
+    ".json",
+    ".xcworkspacedata",
+    ".md",
+    ".txt",
+    ".gitignore"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "templates": [
+    {
+      "id": "ios-swiftui-basic",
+      "version": "1.0.0",
+      "platform": "ios",
+      "name": "SwiftUI Basic App",
+      "description": "Basic iOS app with SwiftUI and SwiftData",
+      "path": "templates/ios-swiftui-basic",
+      "tags": ["swiftui", "swiftdata", "ios", "basic"],
+      "minPaperlineVersion": "0.1.0"
+    }
+  ]
+}

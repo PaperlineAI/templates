@@ -1,0 +1,3 @@
+# Templates contain special placeholders like __PAPERLINE_APP_NAME__
+# that must not be altered by Prettier
+templates/

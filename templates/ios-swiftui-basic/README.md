@@ -19,12 +19,12 @@ A SwiftUI iOS application with SwiftData integration.
 
 ```
 __PAPERLINE_APP_NAME__/
-├── __PAPERLINE_APP_NAME__/          # Main app code
+├── __PAPERLINE_APP_NAME__/
 │   ├── __PAPERLINE_APP_NAME__App.swift
 │   ├── ContentView.swift
-│   └── Item.swift                   # SwiftData model
-├── __PAPERLINE_APP_NAME__Tests/     # Unit tests
-└── __PAPERLINE_APP_NAME__UITests/   # UI tests
+│   └── Item.swift
+├── __PAPERLINE_APP_NAME__Tests/
+└── __PAPERLINE_APP_NAME__UITests/
 ```
 
 ## Next Steps

@@ -1,30 +1,48 @@
-# iOS SwiftUI Basic Template
+# **PAPERLINE_APP_NAME**
 
-Basic iOS app with SwiftUI and SwiftData.
+A SwiftUI iOS application with SwiftData integration.
 
 ## Features
 
-- ✅ SwiftUI + SwiftData
-- ✅ Basic CRUD operations
-- ✅ Unit & UI tests
-- ✅ iOS 18+ support
+- SwiftUI + SwiftData
+- Basic CRUD operations
+- Unit & UI tests
+- iOS **PAPERLINE_DEPLOYMENT_TARGET**+
 
-## Placeholders
+## Requirements
 
-- `__PAPERLINE_APP_NAME__` - Your app name
-- `__PAPERLINE_BUNDLE_ID__` - Bundle identifier
-- `__PAPERLINE_DEPLOYMENT_TARGET__` - iOS deployment target
-- `__PAPERLINE_AUTHOR__` - Author name
-- `__PAPERLINE_DATE__` - Creation date
-- `__PAPERLINE_DEVELOPMENT_TEAM__` - Apple Developer Team ID
+- Xcode 15.0 or later
+- iOS **PAPERLINE_DEPLOYMENT_TARGET** or later
+- macOS Sonoma or later
 
-## Usage
+## Project Structure
 
-```typescript
-createApp({
-  template: "github:PaperlineAI/templates/ios-swiftui-basic@v1.0.0",
-  appName: "TodoApp",
-  bundleId: "com.example.TodoApp",
-  targetDirectory: "/path/to/projects",
-});
 ```
+__PAPERLINE_APP_NAME__/
+├── __PAPERLINE_APP_NAME__/          # Main app code
+│   ├── __PAPERLINE_APP_NAME__App.swift
+│   ├── ContentView.swift
+│   └── Item.swift                   # SwiftData model
+├── __PAPERLINE_APP_NAME__Tests/     # Unit tests
+└── __PAPERLINE_APP_NAME__UITests/   # UI tests
+```
+
+## Next Steps
+
+- [ ] Customize the app icon and launch screen
+- [ ] Add your app's core functionality
+- [ ] Implement proper data models
+- [ ] Add more comprehensive tests
+- [ ] Configure your Apple Developer account settings
+
+## Resources
+
+- [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui)
+- [SwiftData Documentation](https://developer.apple.com/documentation/swiftdata)
+- [Apple Developer Portal](https://developer.apple.com)
+
+---
+
+**Created with:** [Paperline](https://github.com/PaperlineAI)  
+**Author:** **PAPERLINE_AUTHOR**  
+**Date:** **PAPERLINE_DATE**
